@@ -61,7 +61,7 @@ proyecto_dao_flask/
 
 ##  Diagrama de Clases UML
 
-![Diagrama de clases DAO](https://github.com/user-attachments/assets/6f619a46-9705-4f3b-8d6e-87d75cf01f91)
+![Diagrama de clases DAO](https://github.com/user-attachments/assets/ef8fe426-4931-43a6-b3b3-b346031f4030)
 
 
 ### Relaciones principales
