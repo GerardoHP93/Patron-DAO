@@ -12,7 +12,7 @@
 Este proyecto es una implementación del patrón de diseño Data Access Object (DAO) utilizando Flask y MongoDB. El sistema permite la gestión de clientes y productos a través de una interfaz web, demostrando la aplicación práctica de este patrón en una aplicación real.
 
 ## Tecnologías Utilizadas
-- **Hosting**: Se desplegó el programa en el hosting de Render, puede accder entrando a este link: https://patron-dao.onrender.com
+- **Hosting**: Se desplegó el programa usando el hosting Render, puede acceder entrando a este link: https://patron-dao.onrender.com
 - **MongoDB Atlas**: Servicio en la nube que proporciona hosting para bases de datos MongoDB.
 - **Framework Backend**: Flask
 - **Frontend**: HTML, CSS, JavaScript
