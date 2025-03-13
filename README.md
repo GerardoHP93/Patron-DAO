@@ -155,11 +155,3 @@ Manejan las solicitudes HTTP, utilizan los DAO para acceder a los datos y render
 - `cliente_routes.py`: Contiene las rutas para operaciones CRUD de clientes
 - `producto_routes.py`: Contiene las rutas para operaciones CRUD de productos
 
-## Ventajas de esta Implementación
-
-1. **Separación de Responsabilidades**: Cada componente tiene una función específica.
-2. **Fácil Mantenimiento**: Los cambios en la base de datos no afectan a la lógica de negocio.
-3. **Testabilidad**: Las interfaces permiten crear fácilmente mocks para pruebas.
-4. **Escalabilidad**: Se pueden agregar nuevas entidades siguiendo el mismo patrón.
-5. **Cambiabilidad**: Es posible cambiar la base de datos (ej. de MongoDB a MySQL) modificando solo las implementaciones DAO.
-
